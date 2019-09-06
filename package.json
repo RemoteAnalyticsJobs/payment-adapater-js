@@ -1,0 +1,29 @@
+{
+  "name": "payment-adapter",
+  "version": "0.0.1",
+  "description": "It will send card token to payment gateway and can be easily switched to other drivers",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharik709/payment-adapater-js.git"
+  },
+  "keywords": [
+    "payment",
+    "gateway",
+    "payment",
+    "gateway",
+    "swtich"
+  ],
+  "author": "sharik shaikh <shaikhsharik709@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharik709/payment-adapater-js/issues"
+  },
+  "homepage": "https://github.com/sharik709/payment-adapater-js#readme"
+}

@@ -6,7 +6,6 @@ class Payment {
     }
 
     static cardTokenize(card, driver) {
-        let driver = Payment.getPaymentDriver(driver);
-        return driver.cardTokenize(card)
+        return Payment.getPaymentDriver(driver).cardTokenize(card)
     }
 }
